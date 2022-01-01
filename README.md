@@ -16,4 +16,4 @@ locally:git tag -d v1.7
 
 remotly:git push origin --delete v1.7
 
-![This is my image](../PersonalPic.jpg)
+![This is my image](PersonalPic.jpg)
